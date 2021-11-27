@@ -1,0 +1,14 @@
+qyp-nbnb-gkt
+
+
+
+
+sandeep patil11:46
+String FileName = f.toString().replace(":", "_")+ ".png";
+
+
+
+
+
+
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst
